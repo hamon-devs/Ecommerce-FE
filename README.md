@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Install dependencies
+Install pnpm:
+
+```bash
+npm i pnpm
+```
+
+Install dependencies:
 
 ```bash
 pnpm install
